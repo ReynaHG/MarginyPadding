@@ -3,6 +3,7 @@ div{
   border: red 1px solid;
   width: 230px; 
   height: 200px;
+  margin: 0px 0px 5px 0px;
 }
 h1{
 	font-size: 20px;
